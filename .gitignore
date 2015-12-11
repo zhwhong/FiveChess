@@ -30,3 +30,6 @@
 ipch
 Release
 Debug
+
+node_modules
+book.pdf
