@@ -42,7 +42,7 @@ double	alphabeta(int depth, double alpha, double beta, State s) {
 				}
 			}
 		}
-		reutn beta
+		return beta;
 	}
 }
 ```
